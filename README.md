@@ -15,11 +15,9 @@ Setup instructions [here](<https://github.com/UndeadSec/SocialFish/wiki/Setting-
 ![Screenshot](https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screen.png)
 
 #### MAINTAINERS
-- **Alisson Moretto**, Twitter: [@A1S0N_][tw-alisson], GitHub: [@A1S0N][git-alisson]
-- **Vandré Augusto**, Twitter: [@dr1nKoRdi3][tw-drink], GitHub: [@dr1nK0Rdi3][git-drink]
-
+- *Azellea Relish
 #### DOCS
-- **Fernando Bellincanta**, Twitter: [@ErvalhouS][tw-fernando], GitHub: [@ErvalhouS][git-fernando]
+- **Azellea Relish**, Facebook : [@Maxiellafromjupiter][fb-Azellea relish], GitHub: [@Maxiellafromjupiter][git-azellea relish]
 
 ### DISCLAIMER
 
